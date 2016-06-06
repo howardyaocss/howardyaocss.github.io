@@ -1,0 +1,19 @@
+/*chapter 1*/
+
+button.c0101{
+	padding: .3em .8em;
+	border: 1px solid rgba(0,0,0,.1);/*#446d88;*/
+	background: #58a linear-gradient(hsla(0,0%,100%,.2),transparent); /*(#77a0bb, #58a);*/
+	border-radius: .2em;
+	box-shadow: 0 .05em .25em rgba(0,0,0,.5); /*gray;*/
+	color: #fff;
+	text-shadow: 0 -.05em .05em rgba(0,0,0,.5); /* #335166; */
+	font-size: 125%; /*use relative value*/
+	line-height: 1.5; /*use relative value*/
+}
+button.ok{
+	background-color: #6b0;
+}
+button.cancel{
+	background-color: #c00;
+}

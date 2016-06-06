@@ -1,0 +1,23 @@
+
+div.c0201 {
+	border: 10px solid rgba(255,255,255,0.5);
+	background: white;
+	/*background-clip: padding-box;*/
+	font-size: 125%;
+	line-height: 1.5;
+	width: 175px;
+
+}
+div.c0201show {
+	background-clip: padding-box;
+}
+
+div.c0202 {
+	width: 175px;
+	height: 100px;
+	background: yellowgreen;
+	box-shadow: 0 0 0 10px #655,
+				0 0 0 15px deeppink,
+				0 2px 5px 20px rgba(0,0,0,.6);
+}
+
